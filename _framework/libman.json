@@ -1,0 +1,11 @@
+{
+    "version": "1.0",
+    "defaultProvider": "cdnjs",
+    "libraries": [
+        {
+            "library": "popper.js@2.4.4",
+            "destination": "wwwroot/js",
+            "files": [ "umd/popper.js" ]
+        }
+    ]
+}
